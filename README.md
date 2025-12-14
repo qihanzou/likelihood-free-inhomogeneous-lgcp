@@ -5,4 +5,4 @@ The main_codes folder contains the main code for this project:
 2. NN_DSBI_app.py contains the function for the DSBI model used in the application component.
 3. simulation.R is used for the simulation study.
 4. application.R is used for the application to the gorilla data.
-5. application_kfold.R implements the k-fold–like algorithm.
+5. application_kfold.R is used for the k-fold CV.
