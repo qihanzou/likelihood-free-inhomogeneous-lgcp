@@ -1,5 +1,4 @@
 # Likelihood-Free Methods for Univariate Inhomogeneous LGCPs
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20457900.svg)](https://doi.org/10.5281/zenodo.20457900)
 
 Code for likelihood-free inference methods for univariate inhomogeneous Log-Gaussian Cox processes.
 
